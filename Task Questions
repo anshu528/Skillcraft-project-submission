@@ -1,0 +1,100 @@
+# SkillCraft Technology - Data Science Internship
+
+This repository contains my completed tasks for my 1-month virtual data science internship. It showcases my data cleaning, analysis, visualization, and machine learning skills using Python
+
+
+📊 Task 01: Population Data Visualization
+
+# Objective
+
+Created a sorted horizontal bar chart visualizing the categorical distribution of total population data across selected countries for 2023.
+
+# Tools Used
+
+* Pandas
+* Matplotlib
+
+# Status ✅ Completed
+
+
+🚢 Task 02: Titanic Dataset Exploratory Data Analysis (EDA)
+
+# Objective
+
+Cleaned a raw passenger dataset by handling missing values (imputing age and embarked values while dropping cabin/deck data) and built a visual dashboard to analyze how gender, passenger class, and family size correlated with survival rates.
+
+# Tools Used
+
+* Pandas
+* Matplotlib
+* Seaborn
+
+# Status ✅ Completed
+
+
+🌳 Task 03: Decision Tree Classifier for Customer Purchase Prediction
+
+# Objective
+
+Built a machine learning Decision Tree Classifier to predict whether a customer would purchase a product or service based on demographic and behavioral banking data.
+
+# Tools Used
+
+* Scikit-Learn
+* Pandas
+* Matplotlib
+
+#Status ✅ Completed
+
+
+
+🚗 Task 04: Traffic Accident Data Analysis
+
+# Objective
+
+Analyzed traffic accident data to identify patterns related to weather conditions, road safety metrics, accident severity, and time-of-day distributions in order to uncover major risk factors and accident hotspots.
+
+# Tools Used
+
+* Pandas
+* Matplotlib
+* Seaborn
+* NumPy
+
+# Status ✅ Completed
+
+
+
+ Tech Stack & Libraries
+
+# Programming Language
+
+* Python
+
+# Development Environment
+
+* Google Colab
+
+#  Libraries & Frameworks
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+
+---
+
+ 📌 Internship Summary
+
+During this internship, I worked on real-world datasets involving:
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Statistical Analysis
+* Machine Learning
+* Decision Tree Modeling
+* Pattern Recognition
+
+These projects helped strengthen my practical understanding of the complete Data Science workflow using Python.
